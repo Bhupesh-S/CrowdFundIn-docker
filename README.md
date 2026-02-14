@@ -1,4 +1,4 @@
-# CrowdFundIn - MERN Stack Crowdfunding Platform
+# CrowdFundIn - MERN Stack Crowdfunding Platform/
 
 A full-stack crowdfunding application built with MongoDB, Express.js, React, and Node.js.
 
